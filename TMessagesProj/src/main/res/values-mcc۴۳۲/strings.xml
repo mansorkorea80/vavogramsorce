@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="cancel">&#1604;&#1594;&#1608;</string>
+<string name="pushe_app_name">&#1662;&#1608;&#1588;&#1607;</string>
+<string name="pushe_close_dialog">&#1576;&#1587;&#1578;&#1606;</string>
+<string name="pushe_missing_google_play_services_dismiss">&#1606;&#1607;</string>
+<string name="pushe_missing_google_play_services_install">&#1606;&#1589;&#1576; &#1608; &#1575;&#1585;&#1578;&#1602;&#1575;</string>
+<string name="pushe_missing_google_play_services_text">&#1604;&#1591;&#1601;&#1575; &#1576;&#1585;&#1575;&#1740; &#1575;&#1587;&#1578;&#1601;&#1575;&#1583;&#1607; &#1705;&#1575;&#1605;&#1604; &#1575;&#1586; &#1576;&#1585;&#1606;&#1575;&#1605;&#1607; \"&#1711;&#1608;&#1711;&#1604; &#1662;&#1604;&#1740; &#1587;&#1585;&#1608;&#1740;&#1587;\" &#1585;&#1575; &#1606;&#1589;&#1576; &#1705;&#1606;&#1740;&#1583;.</string>
+<string name="pushe_missing_google_play_services_title">&#1575;&#1585;&#1578;&#1602;&#1575;</string>
+<string name="pushe_starting_apk_download">&#1583;&#1585; &#1581;&#1575;&#1604; &#1583;&#1575;&#1606;&#1604;&#1608;&#1583; apk ...</string>
+<string name="pushe_starting_apk_download_title">&#1583;&#1575;&#1606;&#1604;&#1608;&#1583;</string>
+</resources>

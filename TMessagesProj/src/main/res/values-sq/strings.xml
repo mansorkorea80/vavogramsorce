@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="common_google_play_services_enable_button">Aktivizo</string>
+<string name="common_google_play_services_enable_text">%1$s nuk do t&#235; funksionoj&#235; n&#235;se nuk aktivizon sh&#235;rbimet e \"Luaj me Google\".</string>
+<string name="common_google_play_services_enable_title">Aktivizo sh&#235;rbimet e \"Luaj me Google\"</string>
+<string name="common_google_play_services_install_button">Instalo</string>
+<string name="common_google_play_services_install_text_phone">%1$s nuk do t&#235; funksionoj&#235; pa sh&#235;rbimet e \"Luaj me Google\", t&#235; cilat mungojn&#235; n&#235; telefonin t&#235;nd.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s nuk do t&#235; funksionoj&#235; pa sh&#235;rbimet e \"Luaj me Google\", t&#235; cilat mungojn&#235; n&#235; tabletin t&#235;nd.</string>
+<string name="common_google_play_services_install_title">Merr sh&#235;rbimet e \"Luaj me Google\"</string>
+<string name="common_google_play_services_notification_ticker">Gabim n&#235; sh&#235;rbimet e \"Luaj me Google\"</string>
+<string name="common_google_play_services_unknown_issue">%1$s ka probleme me sh&#235;rbimet e \"Luaj me Google\". N&#235;se problemi vazhdon, kontakto me zhvilluesin p&#235;r ndihm&#235;.</string>
+<string name="common_google_play_services_unsupported_text">%1$s mb&#235;shtetet n&#235; sh&#235;rbimet e \"Luaj me Google\", t&#235; cilat nuk mb&#235;shteten nga pajisja jote. Kontakto me prodhuesin p&#235;r ndihm&#235;.</string>
+<string name="common_google_play_services_unsupported_title">Sh&#235;rbimet e \"Luaj me Google\"</string>
+<string name="common_google_play_services_update_button">P&#235;rdit&#235;so</string>
+<string name="common_google_play_services_update_text">%1$s nuk do t&#235; funksionoj&#235; n&#235;se nuk p&#235;rdit&#235;son sh&#235;rbimet e \"Luaj me Google\".</string>
+<string name="common_google_play_services_update_title">P&#235;rdit&#235;so sh&#235;rbimet e \"Luaj me Google\"</string>
+<string name="common_google_play_services_updating_text">%1$s nuk do t&#235; funksionoj&#235; pa sh&#235;rbimet e \"Luaj me Google\", t&#235; cilat po p&#235;rdit&#235;sohen aktualisht.</string>
+<string name="common_google_play_services_updating_title">Sh&#235;rbimet e \"Luaj me Google\" po p&#235;rdit&#235;sohen</string>
+<string name="common_google_play_services_wear_update_text">Nevojitet nj&#235; version i ri i sh&#235;rbimeve t&#235; \"Luaj me Google\". Ai do t&#235; p&#235;rdit&#235;sohet automatikisht s&#235; shpejti.</string>
+<string name="common_open_on_phone">Hape n&#235; telefon</string>
+<string name="common_signin_button_text">Identifikohu</string>
+<string name="common_signin_button_text_long">Identifikohu me Google</string>
+</resources>

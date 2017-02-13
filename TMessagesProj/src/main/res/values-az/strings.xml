@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="common_google_play_services_enable_button">Aktiv edin</string>
+<string name="common_google_play_services_enable_text">%1$s Google Play xidm&#601;tl&#601;rini aktiv ed&#601;n&#601; kimi i&#351;l&#601;m&#601;y&#601;c&#601;k.</string>
+<string name="common_google_play_services_enable_title">Google Play xidm&#601;tl&#601;rini aktiv edin</string>
+<string name="common_google_play_services_install_button">Qura&#351;d&#305;r&#305;n</string>
+<string name="common_google_play_services_install_text_phone">%1$s telefonunuzdan yoxa &#231;&#305;xm&#305;&#351; Google Play xidm&#601;tl&#601;ri olmadan &#231;al&#305;&#351;mayacaq.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s plan&#351;etinizd&#601;n yoxa &#231;&#305;xm&#305;&#351; Google Play xidm&#601;tl&#601;ri olmadan &#231;al&#305;&#351;mayacaq.</string>
+<string name="common_google_play_services_install_title">Google Play xidm&#601;tl&#601;rini &#601;ld&#601; edin</string>
+<string name="common_google_play_services_notification_ticker">Google Play xidm&#601;tl&#601;ri x&#601;tas&#305;</string>
+<string name="common_google_play_services_unknown_issue">%1$s t&#601;tbiqi il&#601; Google Play xidm&#601;tl&#601;ri aras&#305;nda problem var. Problem davam ed&#601;rs&#601;, Yard&#305;m &#252;&#231;&#252;n developer il&#601; &#601;laq&#601; saxlay&#305;n.</string>
+<string name="common_google_play_services_unsupported_text">%1$s cihaz&#305;n&#305;z t&#601;r&#601;find&#601;n d&#601;st&#601;kl&#601;nm&#601;y&#601;n Google Play xidm&#601;tl&#601;rin&#601; &#601;saslan&#305;r. Yard&#305;m &#252;&#231;&#252;n istehsal&#231;&#305; il&#601; &#601;laq&#601; saxlay&#305;n.</string>
+<string name="common_google_play_services_unsupported_title">Google Play xidm&#601;tl&#601;ri</string>
+<string name="common_google_play_services_update_button">G&#252;nc&#601;ll&#601;yin</string>
+<string name="common_google_play_services_update_text">%1$s Google Play xidm&#601;tl&#601;ri yenil&#601;m&#601; halda &#231;al&#305;&#351;maz.</string>
+<string name="common_google_play_services_update_title">Google Play xidm&#601;tl&#601;rini g&#252;nc&#601;ll&#601;&#351;dirin</string>
+<string name="common_google_play_services_updating_text">%1$s hal-haz&#305;rda g&#252;nc&#601;ll&#601;n&#601;n Google Play xidm&#601;tl&#601;ri olmadan &#231;al&#305;&#351;mayacaq.</string>
+<string name="common_google_play_services_updating_title">Google Play xidm&#601;tl&#601;ri t&#601;z&#601;l&#601;nir</string>
+<string name="common_google_play_services_wear_update_text">Google Play xidm&#601;tl&#601;rinin yeni versiyas&#305; laz&#305;md&#305;r. Q&#305;sa m&#252;dd&#601;t&#601; &#246;z&#252;n&#252; yenil&#601;y&#601;c&#601;k.</string>
+<string name="common_open_on_phone">Telefonda a&#231;&#305;n</string>
+<string name="common_signin_button_text">Daxil olun</string>
+<string name="common_signin_button_text_long">Google il&#601; daxil olun</string>
+</resources>

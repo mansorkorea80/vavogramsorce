@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Przejd&#378; do strony g&#322;&#243;wnej</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Przejd&#378; wy&#380;ej</string>
+<string name="abc_action_menu_overflow_description">Wi&#281;cej opcji</string>
+<string name="abc_action_mode_done">Gotowe</string>
+<string name="abc_activity_chooser_view_see_all">Zobacz wszystkie</string>
+<string name="abc_activitychooserview_choose_application">Wybierz aplikacj&#281;</string>
+<string name="abc_capital_off">WY&#321;.</string>
+<string name="abc_capital_on">W&#321;.</string>
+<string name="abc_search_hint">Szukaj&#8230;</string>
+<string name="abc_searchview_description_clear">Wyczy&#347;&#263; zapytanie</string>
+<string name="abc_searchview_description_query">Wyszukiwane has&#322;o</string>
+<string name="abc_searchview_description_search">Szukaj</string>
+<string name="abc_searchview_description_submit">Wy&#347;lij zapytanie</string>
+<string name="abc_searchview_description_voice">Wyszukiwanie g&#322;osowe</string>
+<string name="abc_shareactionprovider_share_with">Udost&#281;pnij dla</string>
+<string name="abc_shareactionprovider_share_with_application">Udost&#281;pnij dla %s</string>
+<string name="abc_toolbar_collapse_description">Zwi&#324;</string>
+<string name="common_google_play_services_enable_button">W&#322;&#261;cz</string>
+<string name="common_google_play_services_enable_text">Aplikacja %1$s nie b&#281;dzie dzia&#322;a&#263;, je&#347;li nie w&#322;&#261;czysz Us&#322;ug Google Play.</string>
+<string name="common_google_play_services_enable_title">W&#322;&#261;cz Us&#322;ugi Google Play</string>
+<string name="common_google_play_services_install_button">Zainstaluj</string>
+<string name="common_google_play_services_install_text_phone">Aplikacja %1$s nie b&#281;dzie dzia&#322;a&#263;, je&#347;li nie zainstalujesz na telefonie Us&#322;ug Google Play.</string>
+<string name="common_google_play_services_install_text_tablet">Aplikacja %1$s nie b&#281;dzie dzia&#322;a&#263;, je&#347;li nie zainstalujesz na tablecie Us&#322;ug Google Play.</string>
+<string name="common_google_play_services_install_title">Pobierz Us&#322;ugi Google Play</string>
+<string name="common_google_play_services_notification_ticker">B&#322;&#261;d Us&#322;ug Google Play</string>
+<string name="common_google_play_services_unknown_issue">%1$s ma problem z dost&#281;pem do us&#322;ug Google Play. Je&#347;li problem b&#281;dzie si&#281; utrzymywa&#263;, skontaktuj si&#281; z programist&#261;, by uzyska&#263; pomoc.</string>
+<string name="common_google_play_services_unsupported_text">Aplikacja %1$s wymaga Us&#322;ug Google Play, a nie s&#261; one obs&#322;ugiwane przez Twoje urz&#261;dzenie. Skontaktuj si&#281; z producentem, by uzyska&#263; pomoc.</string>
+<string name="common_google_play_services_unsupported_title">Us&#322;ugi Google Play</string>
+<string name="common_google_play_services_update_button">Aktualizuj</string>
+<string name="common_google_play_services_update_text">Aplikacja %1$s nie b&#281;dzie dzia&#322;a&#263;, je&#347;li nie zaktualizujesz Us&#322;ug Google Play.</string>
+<string name="common_google_play_services_update_title">Zaktualizuj Us&#322;ugi Google Play</string>
+<string name="common_google_play_services_updating_text">Aplikacja %1$s nie b&#281;dzie dzia&#322;a&#263; bez Us&#322;ug Google Play, kt&#243;re s&#261; obecnie aktualizowane.</string>
+<string name="common_google_play_services_updating_title">Trwa aktualizowanie Us&#322;ug Google Play</string>
+<string name="common_google_play_services_wear_update_text">Wymagana jest nowa wersja Us&#322;ug Google Play. Wkr&#243;tce nast&#261;pi automatyczna aktualizacja.</string>
+<string name="common_open_on_phone">Otw&#243;rz na telefonie</string>
+<string name="common_signin_button_text">Zaloguj si&#281;</string>
+<string name="common_signin_button_text_long">Zaloguj si&#281; przez Google</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

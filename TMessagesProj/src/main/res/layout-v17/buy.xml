@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+		<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+			<RelativeLayout android:gravity="center" android:background="#ffefeeee" android:layout_width="fill_parent" android:layout_height="fill_parent">
+				<LinearLayout android:orientation="vertical" android:background="@color/white_buy" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="50.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="40.0dip">
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="50.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer01" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer02" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer03" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView4" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer04" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView5" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer05" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView6" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer06" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="10.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true">
+						<TextView android:textColor="#ff727272" android:gravity="center_vertical" android:id="@id/textView7" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/buyoffer07" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+					</RelativeLayout>
+					<RelativeLayout android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip">
+						<RelativeLayout android:id="@id/ly_01" android:background="#ff6b0404" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+						<TextView android:textColor="#ffffffff" android:id="@id/buybtn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/buybtn" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+						<RelativeLayout android:id="@id/buy" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					</RelativeLayout>
+				</LinearLayout>
+				<ImageView android:id="@id/imageView13" android:layout_width="100.0dip" android:layout_height="100.0dip" android:layout_marginLeft="20.0dip" android:src="@drawable/premium_icon" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="true" />
+			</RelativeLayout>
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

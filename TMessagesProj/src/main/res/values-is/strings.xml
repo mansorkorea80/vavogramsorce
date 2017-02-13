@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="common_google_play_services_enable_button">Kveikja</string>
+<string name="common_google_play_services_enable_text">%1$s virkar ekki nema &#254;&#250; gerir &#254;j&#243;nustu Google Play virka.</string>
+<string name="common_google_play_services_enable_title">Virkja &#254;j&#243;nustu Google Play</string>
+<string name="common_google_play_services_install_button">Setja upp</string>
+<string name="common_google_play_services_install_text_phone">%1$s getur ekki keyrt &#225;n &#254;j&#243;nustu Google Play, sem vantar &#237; s&#237;mann &#254;inn.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s getur ekki keyrt &#225;n &#254;j&#243;nustu Google Play, sem vantar &#237; spjaldt&#246;lvuna &#254;&#237;na.</string>
+<string name="common_google_play_services_install_title">S&#230;kja &#254;j&#243;nustu Google Play</string>
+<string name="common_google_play_services_notification_ticker">Villa &#237; &#254;j&#243;nustu Google Play</string>
+<string name="common_google_play_services_unknown_issue">%1$s &#225; &#237; vandr&#230;&#240;um me&#240; &#254;j&#243;nustu Google Play. Ef vandam&#225;li&#240; heldur &#225;fram skaltu hafa samband vi&#240; &#254;r&#243;unara&#240;ilann til a&#240; f&#225; a&#240;sto&#240;.</string>
+<string name="common_google_play_services_unsupported_text">%1$s rei&#240;ir sig &#225; &#254;j&#243;nustu Google Play, sem er ekki studd &#237; t&#230;kinu &#254;&#237;nu. Haf&#240;u samband vi&#240; framlei&#240;andann til a&#240; f&#225; a&#240;sto&#240;.</string>
+<string name="common_google_play_services_unsupported_title">&#222;j&#243;nusta Google Play</string>
+<string name="common_google_play_services_update_button">Uppf&#230;ra</string>
+<string name="common_google_play_services_update_text">%1$s getur ekki keyrt nema &#254;&#250; uppf&#230;rir &#254;j&#243;nustu Google Play.</string>
+<string name="common_google_play_services_update_title">Uppf&#230;ra &#254;j&#243;nustu Google Play</string>
+<string name="common_google_play_services_updating_text">%1$s getur ekki keyrt &#225;n &#254;j&#243;nustu Google Play, sem veri&#240; er a&#240; uppf&#230;ra.</string>
+<string name="common_google_play_services_updating_title">Veri&#240; er a&#240; uppf&#230;ra &#254;j&#243;nustu Google Play</string>
+<string name="common_google_play_services_wear_update_text">N&#253;ja &#250;tg&#225;fu af &#254;j&#243;nustu Google Play vantar. H&#250;n uppf&#230;rir sig sj&#225;lf innan skamms.</string>
+<string name="common_open_on_phone">Opna &#237; s&#237;manum</string>
+<string name="common_signin_button_text">Skr&#225; inn</string>
+<string name="common_signin_button_text_long">Skr&#225; inn me&#240; Google</string>
+</resources>

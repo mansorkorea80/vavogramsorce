@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@id/activity_dialog" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+	<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/border" android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:textSize="15.0dip" android:textColor="#ff505050" android:gravity="center" android:id="@id/textView9" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="40.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="40.0dip" android:text="لطفا برای حمایت از ما و آبدیت بهتر و زودتر با نظر دادن در کافه بازار از ما حمایت کنید." android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+		<RelativeLayout android:id="@id/ly" android:background="@color/main_0a" android:layout_width="fill_parent" android:layout_height="60.0dip" android:layout_alignParentBottom="true">
+			<TextView android:textSize="18.0dip" android:textColor="#ffffffff" android:id="@id/textView8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="نظر میدم" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+		</RelativeLayout>
+	</LinearLayout>
+</LinearLayout>

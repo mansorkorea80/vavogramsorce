@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<RelativeLayout android:id="@id/action_ly" android:background="#ff27a158" android:layout_width="fill_parent" android:layout_height="55.0dip">
+		<FrameLayout android:id="@id/ic_back" android:background="@drawable/bar_selector_lock21" android:layout_width="55.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" android:layout_alignParentStart="true">
+			<ImageView android:layout_gravity="center" android:id="@id/imageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_ab_back" />
+		</FrameLayout>
+	</RelativeLayout>
+	<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+		<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<RelativeLayout android:id="@id/ly_c_secu" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_gh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_recoeder" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_se" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_idfinder" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_profile" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_prof" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_ghost" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_ghost" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_answer" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_mo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_co" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_tc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_tel" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_tt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_customize" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_font" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_make" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_make_gr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_channel" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_ch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+			<RelativeLayout android:id="@id/ly_c_about" android:background="@drawable/bar_selector_lock21" android:layout_width="fill_parent" android:layout_height="45.0dip">
+				<TextView android:textColor="#ff727272" android:id="@id/txt_ab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="قفل کردن" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+			</RelativeLayout>
+			<LinearLayout android:background="#fff7f7f7" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

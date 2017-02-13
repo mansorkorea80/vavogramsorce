@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Prejs&#357; na plochu</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Prejs&#357; hore</string>
+<string name="abc_action_menu_overflow_description">&#270;al&#353;ie mo&#382;nosti</string>
+<string name="abc_action_mode_done">Hotovo</string>
+<string name="abc_activity_chooser_view_see_all">Zobrazi&#357; v&#353;etko</string>
+<string name="abc_activitychooserview_choose_application">Zvo&#318;te aplik&#225;ciu</string>
+<string name="abc_capital_off">VYP.</string>
+<string name="abc_capital_on">ZAP.</string>
+<string name="abc_search_hint">Vyh&#318;ada&#357;&#8230;</string>
+<string name="abc_searchview_description_clear">Vymaza&#357; dopyt</string>
+<string name="abc_searchview_description_query">Vyh&#318;ad&#225;vac&#237; dopyt</string>
+<string name="abc_searchview_description_search">H&#318;ada&#357;</string>
+<string name="abc_searchview_description_submit">Odosla&#357; dopyt</string>
+<string name="abc_searchview_description_voice">Hlasov&#233; vyh&#318;ad&#225;vanie</string>
+<string name="abc_shareactionprovider_share_with">Zdie&#318;a&#357; pomocou</string>
+<string name="abc_shareactionprovider_share_with_application">Zdie&#318;a&#357; pomocou %s</string>
+<string name="abc_toolbar_collapse_description">Zbali&#357;</string>
+<string name="common_google_play_services_enable_button">Povoli&#357;</string>
+<string name="common_google_play_services_enable_text">Aplik&#225;cia %1$s bude fungova&#357; a&#382; po povolen&#237; slu&#382;ieb Google Play.</string>
+<string name="common_google_play_services_enable_title">Povoli&#357; slu&#382;by Google Play</string>
+<string name="common_google_play_services_install_button">In&#353;talova&#357;</string>
+<string name="common_google_play_services_install_text_phone">Na spustenie aplik&#225;cie %1$s sa vy&#382;aduj&#250; slu&#382;by Google Play, ktor&#233; na telef&#243;ne nem&#225;te.</string>
+<string name="common_google_play_services_install_text_tablet">Na spustenie aplik&#225;cie %1$s sa vy&#382;aduj&#250; slu&#382;by Google Play, ktor&#233; na tablete nem&#225;te.</string>
+<string name="common_google_play_services_install_title">In&#353;talova&#357; slu&#382;by Google Play</string>
+<string name="common_google_play_services_notification_ticker">Chyba slu&#382;ieb Google Play</string>
+<string name="common_google_play_services_unknown_issue">Aplik&#225;cia %1$s m&#225; probl&#233;my so slu&#382;bami Google Play. Ak probl&#233;m pretrv&#225;va, kontaktujte v&#253;voj&#225;ra a&#160;po&#382;iadajte ho o&#160;pomoc.</string>
+<string name="common_google_play_services_unsupported_text">Aplik&#225;cia %1$s potrebuje slu&#382;by Google Play, ktor&#233; va&#353;e zariadenie nepodporuje. Kontaktujte pr&#237;slu&#353;n&#233;ho v&#253;robcu a&#160;po&#382;iadajte ho o pomoc.</string>
+<string name="common_google_play_services_unsupported_title">Slu&#382;by Google Play</string>
+<string name="common_google_play_services_update_button">Aktualizova&#357;</string>
+<string name="common_google_play_services_update_text">Aplik&#225;ciu %1$s bude mo&#382;n&#233; spusti&#357; a&#382; po aktualiz&#225;cii slu&#382;ieb Google Play.</string>
+<string name="common_google_play_services_update_title">Aktualiz&#225;cia slu&#382;ieb Google Play</string>
+<string name="common_google_play_services_updating_text">Na spustenie aplik&#225;cie %1$s sa vy&#382;aduj&#250; slu&#382;by Google Play, ktor&#233; sa moment&#225;lne aktualizuj&#250;.</string>
+<string name="common_google_play_services_updating_title">Slu&#382;by Google Play sa aktualizuj&#250;</string>
+<string name="common_google_play_services_wear_update_text">Vy&#382;aduje sa nov&#225; verzia slu&#382;ieb Google Play. Aktualizuj&#250; sa automaticky v&#160;najbli&#382;&#353;om &#269;ase.</string>
+<string name="common_open_on_phone">Otvori&#357; v telef&#243;ne</string>
+<string name="common_signin_button_text">Prihl&#225;si&#357; sa</string>
+<string name="common_signin_button_text_long">Prihl&#225;si&#357; sa do &#250;&#269;tu Google</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

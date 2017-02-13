@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">P&#345;ej&#237;t na plochu</string>
+<string name="abc_action_bar_home_description_format">%1$s &#8211; %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s &#8211; %3$s</string>
+<string name="abc_action_bar_up_description">P&#345;ej&#237;t nahoru</string>
+<string name="abc_action_menu_overflow_description">V&#237;ce mo&#382;nost&#237;</string>
+<string name="abc_action_mode_done">Hotovo</string>
+<string name="abc_activity_chooser_view_see_all">Zobrazit v&#353;e</string>
+<string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+<string name="abc_capital_off">VYPNUTO</string>
+<string name="abc_capital_on">ZAPNUTO</string>
+<string name="abc_search_hint">Vyhledat&#8230;</string>
+<string name="abc_searchview_description_clear">Smazat dotaz</string>
+<string name="abc_searchview_description_query">Vyhled&#225;vac&#237; dotaz</string>
+<string name="abc_searchview_description_search">Hledat</string>
+<string name="abc_searchview_description_submit">Odeslat dotaz</string>
+<string name="abc_searchview_description_voice">Hlasov&#233; vyhled&#225;v&#225;n&#237;</string>
+<string name="abc_shareactionprovider_share_with">Sd&#237;let pomoc&#237;</string>
+<string name="abc_shareactionprovider_share_with_application">Sd&#237;let pomoc&#237; %s</string>
+<string name="abc_toolbar_collapse_description">Sbalit</string>
+<string name="common_google_play_services_enable_button">Povolit</string>
+<string name="common_google_play_services_enable_text">Ke spu&#353;t&#283;n&#237; aplikace %1$s je t&#345;eba aktivovat slu&#382;by Google Play.</string>
+<string name="common_google_play_services_enable_title">Aktivace slu&#382;eb Google Play</string>
+<string name="common_google_play_services_install_button">Instalovat</string>
+<string name="common_google_play_services_install_text_phone">Ke spu&#353;t&#283;n&#237; aplikace %1$s jsou pot&#345;eba slu&#382;by Google Play, kter&#233; v&#160;telefonu nem&#225;te.</string>
+<string name="common_google_play_services_install_text_tablet">Ke spu&#353;t&#283;n&#237; aplikace %1$s jsou pot&#345;eba slu&#382;by Google Play, kter&#233; v&#160;tabletu nem&#225;te.</string>
+<string name="common_google_play_services_install_title">Instalace slu&#382;eb Google Play</string>
+<string name="common_google_play_services_notification_ticker">Chyba slu&#382;eb Google Play</string>
+<string name="common_google_play_services_unknown_issue">Aplikace %1$s m&#225; pot&#237;&#382;e se slu&#382;bami Google Play. Pokud probl&#233;m p&#345;etrv&#225;v&#225;, obra&#357;te se na v&#253;voj&#225;&#345;e s&#160;&#382;&#225;dost&#237; o&#160;pomoc.</string>
+<string name="common_google_play_services_unsupported_text">Aplikace %1$s vy&#382;aduje slu&#382;by Google Play, kter&#233; ve va&#353;em za&#345;&#237;zen&#237; nejsou podporov&#225;ny. S&#160;&#382;&#225;dost&#237;&#160;o pomoc kontaktujte v&#253;robce za&#345;&#237;zen&#237;.</string>
+<string name="common_google_play_services_unsupported_title">Slu&#382;by Google Play</string>
+<string name="common_google_play_services_update_button">Aktualizovat</string>
+<string name="common_google_play_services_update_text">Ke spu&#353;t&#283;n&#237; aplikace %1$s je t&#345;eba aktualizovat slu&#382;by Google Play.</string>
+<string name="common_google_play_services_update_title">Aktualizace slu&#382;eb Google Play</string>
+<string name="common_google_play_services_updating_text">Ke spu&#353;t&#283;n&#237; aplikace %1$s jsou pot&#345;eba slu&#382;by Google Play, kter&#233; jsou pr&#225;v&#283; aktualizov&#225;ny.</string>
+<string name="common_google_play_services_updating_title">Prob&#237;h&#225; aktualizace slu&#382;eb Google Play</string>
+<string name="common_google_play_services_wear_update_text">Je vy&#382;adov&#225;na nov&#225; verze slu&#382;eb Google Play. Nov&#225; verze se brzy sama nainstaluje.</string>
+<string name="common_open_on_phone">Otev&#345;&#237;t v&#160;telefonu</string>
+<string name="common_signin_button_text">P&#345;ihl&#225;sit se</string>
+<string name="common_signin_button_text_long">P&#345;ihl&#225;sit se k&#160;&#250;&#269;tu Google</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

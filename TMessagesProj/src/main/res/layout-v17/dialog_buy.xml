@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/ly_bord_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+		<RelativeLayout android:background="#ffedebec" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip">
+			<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ff454344" android:gravity="center" android:id="@id/text_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:text="@string/PremiumVersion" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+		</RelativeLayout>
+		<TextView android:textSize="14.0dip" android:textColor="#ff494949" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/PremiumText" />
+&quot; EditText
+        android:layout_width=\&quot;match_parent\&quot;
+        android:layout_height=\&quot;55dp\&quot;
+        android:id=\&quot;@+id/edit_02\&quot;
+        android:textColor=\&quot;#565656\&quot;
+        android:textSize=\&quot;14dp\&quot;
+        android:hint=\&quot;تکرار رمز\&quot;
+        android:gravity=\&quot;right\&quot;
+        android:inputType=\&quot;textPassword\&quot;
+        android:textColorHint=\&quot;#7f7f7f\&quot;
+        android:drawableRight=\&quot;@drawable/ic_action_lock_closed\&quot;
+        android:background=\&quot;@drawable/edit_border\&quot;
+        android:layout_gravity=\&quot;center_horizontal\&quot;
+        android:layout_marginLeft=\&quot;20dp\&quot;
+        android:layout_marginRight=\&quot;20dp\&quot;
+        android:layout_marginTop=\&quot;10dp\&quot; /&gt;
+&quot;		<RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/ly_01" android:background="#ff2ea8b1" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginLeft="25.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="25.0dip" android:layout_marginBottom="20.0dip">
+			<RelativeLayout android:id="@id/ly_pass" android:background="@drawable/selector_m_21" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+				<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/text_save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/toshop" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+			</RelativeLayout>
+		</RelativeLayout>
+	</LinearLayout>
+</RelativeLayout>

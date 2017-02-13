@@ -1,3 +1,2 @@
-<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
-    android:contentAuthority="com.android.contacts"
-    android:accountType="org.telegram.messenger"/>
+<?xml version='1.0' encoding='utf-8' ?>
+<sync-adapter xmlns:android="http://schemas.android.com/apk/res/android" android:accountType="org.telegram.messenger" android:contentAuthority="com.android.contacts" />

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Boshiga o&#8216;tish</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Yuqoriga o&#8216;tish</string>
+<string name="abc_action_menu_overflow_description">Qo&#8216;shimcha sozlamalar</string>
+<string name="abc_action_mode_done">Tayyor</string>
+<string name="abc_activity_chooser_view_see_all">Barchasini ko&#8216;rish</string>
+<string name="abc_activitychooserview_choose_application">Dastur tanlang</string>
+<string name="abc_capital_off">O&#8216;CHIQ</string>
+<string name="abc_capital_on">YONIQ</string>
+<string name="abc_search_hint">Qidirish&#8230;</string>
+<string name="abc_searchview_description_clear">So&#8216;rovni tozalash</string>
+<string name="abc_searchview_description_query">So&#8216;rovni izlash</string>
+<string name="abc_searchview_description_search">Qidirish</string>
+<string name="abc_searchview_description_submit">So&#8216;rov yaratish</string>
+<string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+<string name="abc_shareactionprovider_share_with">Bo&#8216;lishish:</string>
+<string name="abc_toolbar_collapse_description">Yig&#8216;ish</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

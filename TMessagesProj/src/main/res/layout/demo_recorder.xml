@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="#ffececec" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+		<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<LinearLayout android:orientation="vertical" android:id="@id/linearLayout" android:background="@drawable/ly_bord_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+				<RelativeLayout android:background="#ffedebec" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="10.0dip">
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff454344" android:id="@id/text_02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="10.0dip" android:text="@string/voiceChangerHelp" android:layout_below="@id/text_01" android:layout_alignParentRight="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#fff16136" android:id="@id/text_01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="5.0dip" android:text="@string/helperr" android:layout_above="@id/textView2" android:layout_alignParentRight="true" />
+				</RelativeLayout>
+				<LinearLayout android:orientation="vertical" android:id="@id/ly_01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip">
+					<RadioGroup android:id="@id/radio_group" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="5.0dip">
+						<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff454344" android:layout_gravity="right" android:id="@id/text_03" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/PleaseChooseyourmode" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/NormalMode" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_02" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite1" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_03" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite2" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_04" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite3" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_05" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite4" />
+						<RadioButton android:textColor="#ff454344" android:gravity="center|right" android:id="@id/radio_06" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite5" />
+					</RadioGroup>
+					<RelativeLayout android:id="@id/demo_ly_02" android:layout_width="fill_parent" android:layout_height="wrap_content">
+						<TextView android:textColor="#ff454344" android:gravity="right" android:id="@id/demo02" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite2" android:layout_centerVertical="true" />
+						<ImageView android:id="@id/imageView2" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/premium_icon" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+					</RelativeLayout>
+					<RelativeLayout android:id="@id/demo_ly_03" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+						<TextView android:textColor="#ff454344" android:gravity="right" android:id="@id/demo03" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite3" android:layout_centerVertical="true" />
+						<ImageView android:id="@id/imageView3" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/premium_icon" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+					</RelativeLayout>
+					<RelativeLayout android:id="@id/demo_ly_04" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+						<TextView android:textColor="#ff454344" android:gravity="right" android:id="@id/demo04" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite4" android:layout_centerVertical="true" />
+						<ImageView android:id="@id/imageView4" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/premium_icon" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+					</RelativeLayout>
+					<RelativeLayout android:id="@id/demo_ly_05" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip">
+						<TextView android:textColor="#ff454344" android:gravity="right" android:id="@id/demo05" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ModeWrite5" android:layout_centerVertical="true" />
+						<ImageView android:id="@id/imageView5" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/premium_icon" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+					</RelativeLayout>
+				</LinearLayout>
+			</LinearLayout>
+		</RelativeLayout>
+	</ScrollView>
+</RelativeLayout>

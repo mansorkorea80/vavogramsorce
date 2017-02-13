@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Ugr&#225;s a f&#337;oldalra</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Felfel&#233; mozgat&#225;s</string>
+<string name="abc_action_menu_overflow_description">Tov&#225;bbi lehet&#337;s&#233;gek</string>
+<string name="abc_action_mode_done">K&#233;sz</string>
+<string name="abc_activity_chooser_view_see_all">&#214;sszes megtekint&#233;se</string>
+<string name="abc_activitychooserview_choose_application">V&#225;lasszon ki egy alkalmaz&#225;st</string>
+<string name="abc_capital_off">KI</string>
+<string name="abc_capital_on">BE</string>
+<string name="abc_search_hint">Keres&#233;s&#8230;</string>
+<string name="abc_searchview_description_clear">Lek&#233;rdez&#233;s t&#246;rl&#233;se</string>
+<string name="abc_searchview_description_query">Keres&#233;si lek&#233;rdez&#233;s</string>
+<string name="abc_searchview_description_search">Keres&#233;s</string>
+<string name="abc_searchview_description_submit">Lek&#233;rdez&#233;s k&#252;ld&#233;se</string>
+<string name="abc_searchview_description_voice">Hangalap&#250; keres&#233;s</string>
+<string name="abc_shareactionprovider_share_with">Megoszt&#225;s a k&#246;vetkez&#337;vel:</string>
+<string name="abc_shareactionprovider_share_with_application">Megoszt&#225;s a k&#246;vetkez&#337;vel: %s</string>
+<string name="abc_toolbar_collapse_description">&#214;sszecsuk&#225;s</string>
+<string name="common_google_play_services_enable_button">Enged&#233;lyez&#233;s</string>
+<string name="common_google_play_services_enable_text">"A(z) %1$s alkalmaz&#225;s csak akkor m&#369;k&#246;dik, ha  enged&#233;lyezi a Google Play-szolg&#225;ltat&#225;sokat."</string>
+<string name="common_google_play_services_enable_title">Google Play-szolg&#225;ltat&#225;sok enged&#233;lyez&#233;se</string>
+<string name="common_google_play_services_install_button">Telep&#237;t&#233;s</string>
+<string name="common_google_play_services_install_text_phone">A(z) %1$s alkalmaz&#225;s nem fut a Google Play-szolg&#225;ltat&#225;sok n&#233;lk&#252;l, amelyek hi&#225;nyoznak a telefonr&#243;l.</string>
+<string name="common_google_play_services_install_text_tablet">A(z) %1$s alkalmaz&#225;s nem fut a Google Play-szolg&#225;ltat&#225;sok n&#233;lk&#252;l, amelyek hi&#225;nyoznak a t&#225;blag&#233;pr&#337;l.</string>
+<string name="common_google_play_services_install_title">A Google Play-szolg&#225;ltat&#225;sok beszerz&#233;se</string>
+<string name="common_google_play_services_notification_ticker">Google Play-szolg&#225;ltat&#225;sok &#8211; hiba</string>
+<string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmaz&#225;s probl&#233;m&#225;ba &#252;tk&#246;z&#246;tt a Google Play szolg&#225;ltat&#225;sainak haszn&#225;lata sor&#225;n. Ha a probl&#233;ma tov&#225;bbra is fenn&#225;ll, vegye fel a kapcsolatot a fejleszt&#337;vel.</string>
+<string name="common_google_play_services_unsupported_text">A(z) %1$s haszn&#225;lat&#225;hoz olyan Google Play-szolg&#225;ltat&#225;sokra van sz&#252;ks&#233;g, amelyeket eszk&#246;ze nem t&#225;mogat. Ha seg&#237;ts&#233;gre van sz&#252;ks&#233;ge, l&#233;pjen kapcsolatba a gy&#225;rt&#243;val.</string>
+<string name="common_google_play_services_unsupported_title">Google Play-szolg&#225;ltat&#225;sok</string>
+<string name="common_google_play_services_update_button">Friss&#237;t&#233;s</string>
+<string name="common_google_play_services_update_text">A(z) %1$s alkalmaz&#225;s csak akkor fog m&#369;k&#246;dni, ha friss&#237;ti a Google Play-szolg&#225;ltat&#225;sokat.</string>
+<string name="common_google_play_services_update_title">A Google Play-szolg&#225;ltat&#225;sok friss&#237;t&#233;se</string>
+<string name="common_google_play_services_updating_text">A(z) %1$s alkalmaz&#225;s nem fut a Google Play-szolg&#225;ltat&#225;sok n&#233;lk&#252;l, amelyek friss&#237;t&#233;se folyamatban van.</string>
+<string name="common_google_play_services_updating_title">A Google Play-szolg&#225;ltat&#225;sok friss&#252;lnek</string>
+<string name="common_google_play_services_wear_update_text">A Google Play-szolg&#225;ltat&#225;sok &#250;j verzi&#243;j&#225;ra van sz&#252;ks&#233;g. A szolg&#225;ltat&#225;s hamarosan friss&#237;ti &#246;nmag&#225;t.</string>
+<string name="common_open_on_phone">Megnyit&#225;s a telefonon</string>
+<string name="common_signin_button_text">Bejelentkez&#233;s</string>
+<string name="common_signin_button_text_long">Bejelentkez&#233;s Google-fi&#243;kkal</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

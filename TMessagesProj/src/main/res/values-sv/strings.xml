@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Visa startsidan</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Navigera upp&#229;t</string>
+<string name="abc_action_menu_overflow_description">Fler alternativ</string>
+<string name="abc_action_mode_done">Klart</string>
+<string name="abc_activity_chooser_view_see_all">Visa alla</string>
+<string name="abc_activitychooserview_choose_application">V&#228;lj en app</string>
+<string name="abc_capital_off">AV</string>
+<string name="abc_capital_on">P&#197;</string>
+<string name="abc_search_hint">S&#246;k &#8230;</string>
+<string name="abc_searchview_description_clear">Ta bort fr&#229;gan</string>
+<string name="abc_searchview_description_query">S&#246;kfr&#229;ga</string>
+<string name="abc_searchview_description_search">S&#246;k</string>
+<string name="abc_searchview_description_submit">Skicka fr&#229;ga</string>
+<string name="abc_searchview_description_voice">R&#246;sts&#246;kning</string>
+<string name="abc_shareactionprovider_share_with">Dela med</string>
+<string name="abc_shareactionprovider_share_with_application">Dela med %s</string>
+<string name="abc_toolbar_collapse_description">Komprimera</string>
+<string name="common_google_play_services_enable_button">Aktivera</string>
+<string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tj&#228;nster.</string>
+<string name="common_google_play_services_enable_title">Aktivera Google Play-tj&#228;nster</string>
+<string name="common_google_play_services_install_button">Installera</string>
+<string name="common_google_play_services_install_text_phone">Du m&#229;ste installera Google Play-tj&#228;nster f&#246;r att kunna k&#246;ra %1$s p&#229; mobilen.</string>
+<string name="common_google_play_services_install_text_tablet">Du m&#229;ste installera Google Play-tj&#228;nster f&#246;r att kunna k&#246;ra %1$s p&#229; surfplattan.</string>
+<string name="common_google_play_services_install_title">H&#228;mta Google Play-tj&#228;nster</string>
+<string name="common_google_play_services_notification_ticker">Fel p&#229; Google Play-tj&#228;nster</string>
+<string name="common_google_play_services_unknown_issue">%1$s har problem med Google Play-tj&#228;nster. Om problemet kvarst&#229;r kontaktar du utvecklaren.</string>
+<string name="common_google_play_services_unsupported_text">F&#246;r %1$s kr&#228;vs Google Play-tj&#228;nster, och dessa st&#246;ds inte p&#229; enheten. Kontakta tillverkaren om du vill ha hj&#228;lp.</string>
+<string name="common_google_play_services_unsupported_title">Google Play-tj&#228;nster</string>
+<string name="common_google_play_services_update_button">Uppdatera</string>
+<string name="common_google_play_services_update_text">%1$s kan inte k&#246;ras om du inte uppdaterar Google Play-tj&#228;nsterna.</string>
+<string name="common_google_play_services_update_title">Uppdatera Google Play-tj&#228;nster</string>
+<string name="common_google_play_services_updating_text">%1$s kan inte k&#246;ras utan Google Play-tj&#228;nster, och dessa uppdateras f&#246;r n&#228;rvarande.</string>
+<string name="common_google_play_services_updating_title">Google Play-tj&#228;nster uppdateras</string>
+<string name="common_google_play_services_wear_update_text">En ny version av Google Play-tj&#228;nster kr&#228;vs. Den uppdateras automatiskt inom kort.</string>
+<string name="common_open_on_phone">&#214;ppna p&#229; mobilen</string>
+<string name="common_signin_button_text">Logga in</string>
+<string name="common_signin_button_text_long">Logga in med Google</string>
+<string name="status_bar_notification_info_overflow">&gt;999</string>
+</resources>

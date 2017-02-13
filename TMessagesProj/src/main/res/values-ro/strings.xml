@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Naviga&#539;i la ecranul de pornire</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Naviga&#539;i &#238;n sus</string>
+<string name="abc_action_menu_overflow_description">Mai multe op&#539;iuni</string>
+<string name="abc_action_mode_done">Terminat</string>
+<string name="abc_activity_chooser_view_see_all">Afi&#537;a&#539;i-le pe toate</string>
+<string name="abc_activitychooserview_choose_application">Alege&#539;i o aplica&#539;ie</string>
+<string name="abc_capital_off">DEZACTIVA&#538;I</string>
+<string name="abc_capital_on">ACTIVA&#538;I</string>
+<string name="abc_search_hint">C&#259;uta&#539;i&#8230;</string>
+<string name="abc_searchview_description_clear">&#536;terge&#539;i interogarea</string>
+<string name="abc_searchview_description_query">Interogare de c&#259;utare</string>
+<string name="abc_searchview_description_search">C&#259;uta&#539;i</string>
+<string name="abc_searchview_description_submit">Trimite&#539;i interogarea</string>
+<string name="abc_searchview_description_voice">C&#259;utare vocal&#259;</string>
+<string name="abc_shareactionprovider_share_with">Trimite&#539;i la</string>
+<string name="abc_shareactionprovider_share_with_application">Trimite&#539;i la %s</string>
+<string name="abc_toolbar_collapse_description">Restr&#226;nge&#539;i</string>
+<string name="common_google_play_services_enable_button">Activa&#539;i</string>
+<string name="common_google_play_services_enable_text">%1$s nu va func&#539;iona dec&#226;t dac&#259; activa&#539;i serviciile Google Play.</string>
+<string name="common_google_play_services_enable_title">Activa&#539;i serviciile Google Play</string>
+<string name="common_google_play_services_install_button">Instala&#539;i</string>
+<string name="common_google_play_services_install_text_phone">%1$s nu va rula f&#259;r&#259; serviciile Google Play, care lipsesc de pe telefon.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s nu va rula f&#259;r&#259; serviciile Google Play, care lipsesc de pe tablet&#259;.</string>
+<string name="common_google_play_services_install_title">Desc&#259;rca&#539;i serviciile Google Play</string>
+<string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+<string name="common_google_play_services_unknown_issue">%1$s &#238;nt&#226;mpin&#259; probleme privind serviciile Google Play. Dac&#259; problema persist&#259;, contacta&#539;i dezvoltatorul pentru asisten&#539;&#259;.</string>
+<string name="common_google_play_services_unsupported_text">%1$s se bazeaz&#259; pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contacta&#539;i produc&#259;torul pentru asisten&#539;&#259;.</string>
+<string name="common_google_play_services_unsupported_title">Servicii Google Play</string>
+<string name="common_google_play_services_update_button">Actualiza&#539;i</string>
+<string name="common_google_play_services_update_text">%1$s nu va rula dec&#226;t dac&#259; actualiza&#539;i serviciile Google Play.</string>
+<string name="common_google_play_services_update_title">Actualiza&#539;i serviciile Google Play</string>
+<string name="common_google_play_services_updating_text">%1$s nu va rula f&#259;r&#259; serviciile Google Play, care momentan se actualizeaz&#259;.</string>
+<string name="common_google_play_services_updating_title">Se actualizeaz&#259; serviciile Google Play</string>
+<string name="common_google_play_services_wear_update_text">Este necesar&#259; o nou&#259; versiune a serviciilor Google Play. Se vor actualiza automat &#238;n cur&#226;nd.</string>
+<string name="common_open_on_phone">Deschide&#539;i pe telefon</string>
+<string name="common_signin_button_text">Conecta&#539;i-v&#259;</string>
+<string name="common_signin_button_text_long">Conecta&#539;i-v&#259; cu Google</string>
+<string name="status_bar_notification_info_overflow">&#707;999</string>
+</resources>

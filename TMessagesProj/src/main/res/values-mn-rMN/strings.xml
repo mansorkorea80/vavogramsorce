@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">&#1053;&#1199;&#1199;&#1088; &#1093;&#1091;&#1091;&#1076;&#1072;&#1089; &#1088;&#1091;&#1091; &#1096;&#1080;&#1083;&#1078;&#1080;&#1093;</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">&#1044;&#1101;&#1101;&#1096; &#1096;&#1080;&#1083;&#1078;&#1080;&#1093;</string>
+<string name="abc_action_menu_overflow_description">&#1053;&#1101;&#1084;&#1101;&#1083;&#1090; &#1089;&#1086;&#1085;&#1075;&#1086;&#1083;&#1090;&#1091;&#1091;&#1076;</string>
+<string name="abc_action_mode_done">&#1044;&#1091;&#1091;&#1089;&#1089;&#1072;&#1085;</string>
+<string name="abc_activity_chooser_view_see_all">&#1041;&#1199;&#1075;&#1076;&#1080;&#1081;&#1075; &#1093;&#1072;&#1088;&#1072;&#1093;</string>
+<string name="abc_activitychooserview_choose_application">&#1040;&#1087;&#1087; &#1089;&#1086;&#1085;&#1075;&#1086;&#1093;</string>
+<string name="abc_capital_off">&#1048;&#1044;&#1069;&#1042;&#1061;&#1043;&#1198;&#1049;</string>
+<string name="abc_capital_on">&#1048;&#1044;&#1069;&#1042;&#1061;&#1058;&#1069;&#1049;</string>
+<string name="abc_search_hint">&#1061;&#1072;&#1081;&#1093;...</string>
+<string name="abc_searchview_description_clear">&#1040;&#1089;&#1091;&#1091;&#1083;&#1075;&#1099;&#1075; &#1094;&#1101;&#1074;&#1101;&#1088;&#1083;&#1101;&#1093;</string>
+<string name="abc_searchview_description_query">&#1061;&#1072;&#1081;&#1093; &#1072;&#1089;&#1091;&#1091;&#1083;&#1075;&#1072;</string>
+<string name="abc_searchview_description_search">&#1061;&#1072;&#1081;&#1093;</string>
+<string name="abc_searchview_description_submit">&#1040;&#1089;&#1091;&#1091;&#1083;&#1075;&#1099;&#1075; &#1080;&#1083;&#1075;&#1101;&#1101;&#1093;</string>
+<string name="abc_searchview_description_voice">&#1044;&#1091;&#1091;&#1090; &#1093;&#1072;&#1081;&#1083;&#1090;</string>
+<string name="abc_shareactionprovider_share_with">&#1061;&#1091;&#1074;&#1072;&#1072;&#1083;&#1094;&#1072;&#1093;</string>
+<string name="abc_shareactionprovider_share_with_application">%s-&#1090;&#1072;&#1081; &#1093;&#1091;&#1074;&#1072;&#1072;&#1083;&#1094;&#1072;&#1093;</string>
+<string name="abc_toolbar_collapse_description">&#1061;&#1091;&#1084;&#1080;&#1093;</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

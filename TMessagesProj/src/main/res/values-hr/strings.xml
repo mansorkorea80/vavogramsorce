@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Idi na po&#269;etnu</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Idi gore</string>
+<string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+<string name="abc_action_mode_done">Gotovo</string>
+<string name="abc_activity_chooser_view_see_all">Prika&#382;i sve</string>
+<string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+<string name="abc_capital_off">ISKLJU&#268;ENO</string>
+<string name="abc_capital_on">UKLJU&#268;ENO</string>
+<string name="abc_search_hint">Pretra&#382;ite&#8230;</string>
+<string name="abc_searchview_description_clear">Izbri&#353;i upit</string>
+<string name="abc_searchview_description_query">Upit za pretra&#382;ivanje</string>
+<string name="abc_searchview_description_search">Pretra&#382;ivanje</string>
+<string name="abc_searchview_description_submit">Po&#353;alji upit</string>
+<string name="abc_searchview_description_voice">Glasovno pretra&#382;ivanje</string>
+<string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+<string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+<string name="abc_toolbar_collapse_description">Sa&#382;mi</string>
+<string name="common_google_play_services_enable_button">Omogu&#263;i</string>
+<string name="common_google_play_services_enable_text">%1$s ne&#263;e funkcionirati ako ne omogu&#263;ite usluge Google Playa.</string>
+<string name="common_google_play_services_enable_title">Omogu&#263;ivanje usluga Google Playa</string>
+<string name="common_google_play_services_install_button">Instaliraj</string>
+<string name="common_google_play_services_install_text_phone">%1$s ne&#263;e funkcionirati bez usluga Google Playa koje nisu instalirane na va&#353;em telefonu.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s ne&#263;e funkcionirati bez usluga Google Playa koje nisu instalirane na va&#353;em tabletu.</string>
+<string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+<string name="common_google_play_services_notification_ticker">Pogre&#353;ka Usluga za Google Play</string>
+<string name="common_google_play_services_unknown_issue">%1$s ima pote&#353;ko&#263;a s uslugama Google Playa. Ako se problem ponovi, tra&#382;ite pomo&#263; od razvojnog programera.</string>
+<string name="common_google_play_services_unsupported_text">%1$s radi na temelju usluga Google Playa koje va&#353; ure&#273;aj ne podr&#382;ava. Za pomo&#263; se obratite proizvo&#273;a&#269;u.</string>
+<string name="common_google_play_services_unsupported_title">Usluge za Google Play</string>
+<string name="common_google_play_services_update_button">A&#382;uriraj</string>
+<string name="common_google_play_services_update_text">%1$s ne&#263;e funkcionirati ako ne a&#382;urirate Google Play usluge.</string>
+<string name="common_google_play_services_update_title">A&#382;uriranje usluga Google Playa</string>
+<string name="common_google_play_services_updating_text">%1$s ne&#263;e se pokrenuti bez usluga Google Playa koje se trenuta&#269;no a&#382;uriraju.</string>
+<string name="common_google_play_services_updating_title">A&#382;uriranje usluga Google Playa u tijeku</string>
+<string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro &#263;e se a&#382;urirati.</string>
+<string name="common_open_on_phone">Otvori na telefonu</string>
+<string name="common_signin_button_text">Prijava</string>
+<string name="common_signin_button_text_long">Prijava putem Googlea</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

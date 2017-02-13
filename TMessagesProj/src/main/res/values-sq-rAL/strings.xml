@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Orientohu p&#235;r n&#235; sht&#235;pi</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Ngjitu lart</string>
+<string name="abc_action_menu_overflow_description">Opsione t&#235; tjera</string>
+<string name="abc_action_mode_done">U krye!</string>
+<string name="abc_activity_chooser_view_see_all">Shikoji t&#235; gjitha</string>
+<string name="abc_activitychooserview_choose_application">Zgjidh nj&#235; aplikacion</string>
+<string name="abc_capital_off">JOAKTIV</string>
+<string name="abc_capital_on">AKTIV</string>
+<string name="abc_search_hint">K&#235;rko...</string>
+<string name="abc_searchview_description_clear">Pastro pyetjen</string>
+<string name="abc_searchview_description_query">K&#235;rko pyetjen</string>
+<string name="abc_searchview_description_search">K&#235;rko</string>
+<string name="abc_searchview_description_submit">D&#235;rgo pyetjen</string>
+<string name="abc_searchview_description_voice">K&#235;rkim me z&#235;</string>
+<string name="abc_shareactionprovider_share_with">Shp&#235;rnda publikisht me</string>
+<string name="abc_shareactionprovider_share_with_application">Shp&#235;rnda publikisht me %s</string>
+<string name="abc_toolbar_collapse_description">Shpalos</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

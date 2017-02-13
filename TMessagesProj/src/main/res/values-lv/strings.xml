@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">P&#257;rvietoties uz s&#257;kuma ekr&#257;nu</string>
+<string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+<string name="abc_action_bar_up_description">P&#257;rvietoties aug&#353;up</string>
+<string name="abc_action_menu_overflow_description">Vair&#257;k opciju</string>
+<string name="abc_action_mode_done">Gatavs</string>
+<string name="abc_activity_chooser_view_see_all">Skat&#299;t visu</string>
+<string name="abc_activitychooserview_choose_application">Izv&#275;lieties lietotni</string>
+<string name="abc_capital_off">IZSL&#274;GTS</string>
+<string name="abc_capital_on">IESL&#274;GTS</string>
+<string name="abc_search_hint">Mekl&#275;jiet&#8230;</string>
+<string name="abc_searchview_description_clear">Not&#299;r&#299;t vaic&#257;jumu</string>
+<string name="abc_searchview_description_query">Mekl&#275;&#353;anas vaic&#257;jums</string>
+<string name="abc_searchview_description_search">Mekl&#275;t</string>
+<string name="abc_searchview_description_submit">Iesniegt vaic&#257;jumu</string>
+<string name="abc_searchview_description_voice">Mekl&#275;&#353;ana ar balsi</string>
+<string name="abc_shareactionprovider_share_with">Kop&#299;got ar:</string>
+<string name="abc_shareactionprovider_share_with_application">Kop&#299;got ar %s</string>
+<string name="abc_toolbar_collapse_description">Sak&#316;aut</string>
+<string name="common_google_play_services_enable_button">Iesp&#275;jot</string>
+<string name="common_google_play_services_enable_text">Lai lietotne %1$s darbotos, ir j&#257;iesp&#275;jo Google&#160;Play pakalpojumi.</string>
+<string name="common_google_play_services_enable_title">Google&#160;Play pakalpojumu iesp&#275;jo&#353;ana</string>
+<string name="common_google_play_services_install_button">Instal&#275;t</string>
+<string name="common_google_play_services_install_text_phone">Lai lietotne %1$s darbotos, t&#257;lrun&#299; ir j&#257;instal&#275; Google&#160;Play pakalpojumi.</string>
+<string name="common_google_play_services_install_text_tablet">Lai lietotne %1$s darbotos, plan&#353;etdator&#257; ir j&#257;instal&#275; Google&#160;Play pakalpojumi.</string>
+<string name="common_google_play_services_install_title">Google&#160;Play pakalpojumu ieg&#363;&#353;ana</string>
+<string name="common_google_play_services_notification_ticker">Google&#160;Play pakalpojumu k&#316;&#363;da</string>
+<string name="common_google_play_services_unknown_issue">Lietotn&#275; %1$s ir radusies probl&#275;ma ar Google&#160;Play&#160;pakalpojumu darb&#299;bu. Ja probl&#275;ma joproj&#257;m past&#257;v, l&#363;dzu, sazinieties ar izstr&#257;d&#257;t&#257;ju.</string>
+<string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir j&#257;instal&#275; Google&#160;Play pakalpojumi, ta&#269;u tie j&#363;su ier&#299;c&#275; netiek atbalst&#299;ti. Sazinieties ar ra&#382;ot&#257;ju, lai sa&#326;emtu pal&#299;dz&#299;bu.</string>
+<string name="common_google_play_services_unsupported_title">Google Play pakalpojumi</string>
+<string name="common_google_play_services_update_button">Atjaunin&#257;t</string>
+<string name="common_google_play_services_update_text">Lai lietotne %1$s darbotos, jums ir j&#257;atjaunina Google&#160;Play pakalpojumi.</string>
+<string name="common_google_play_services_update_title">Google&#160;Play pakalpojumu atjaunin&#257;&#353;ana</string>
+<string name="common_google_play_services_updating_text">Lai lietotne %1$s darbotos, ir j&#257;instal&#275; Google&#160;Play pakalpojumi. Pa&#353;laik notiek to atjaunin&#257;&#353;ana.</string>
+<string name="common_google_play_services_updating_title">Tiek atjaunin&#257;ti Google&#160;Play pakalpojumi</string>
+<string name="common_google_play_services_wear_update_text">Ir nepiecie&#353;ama jauna Google&#160;Play pakalpojumu versija. Dr&#299;zum&#257; t&#257; tiks instal&#275;ta.</string>
+<string name="common_open_on_phone">Atv&#275;rt t&#257;lrun&#299;</string>
+<string name="common_signin_button_text">Pierakst&#299;ties</string>
+<string name="common_signin_button_text_long">Pierakst&#299;ties ar Google kontu</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

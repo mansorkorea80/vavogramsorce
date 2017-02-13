@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Eiti &#303; pagrindin&#303; puslap&#303;</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Eiti &#303; vir&#353;&#371;</string>
+<string name="abc_action_menu_overflow_description">Daugiau parink&#269;i&#371;</string>
+<string name="abc_action_mode_done">Atlikta</string>
+<string name="abc_activity_chooser_view_see_all">Per&#382;i&#363;r&#279;ti visk&#261;</string>
+<string name="abc_activitychooserview_choose_application">Pasirinkti program&#261;</string>
+<string name="abc_capital_off">I&#352;JUNGTI</string>
+<string name="abc_capital_on">&#302;JUNGTI</string>
+<string name="abc_search_hint">Ie&#353;koti...</string>
+<string name="abc_searchview_description_clear">I&#353;valyti u&#382;klaus&#261;</string>
+<string name="abc_searchview_description_query">Paie&#353;kos u&#382;klausa</string>
+<string name="abc_searchview_description_search">Paie&#353;ka</string>
+<string name="abc_searchview_description_submit">Pateikti u&#382;klaus&#261;</string>
+<string name="abc_searchview_description_voice">Paie&#353;ka balsu</string>
+<string name="abc_shareactionprovider_share_with">Bendrinti naudojant</string>
+<string name="abc_shareactionprovider_share_with_application">Bendrinti naudojant &#8222;%s&#8220;</string>
+<string name="abc_toolbar_collapse_description">Sutraukti</string>
+<string name="common_google_play_services_enable_button">&#302;galinti</string>
+<string name="common_google_play_services_enable_text">&#8222;%1$s&#8220; neveiks, jei ne&#303;galinsite &#8222;Google Play&#8220; paslaug&#371;.</string>
+<string name="common_google_play_services_enable_title">&#302;galinkite &#8222;Google Play&#8220; paslaugas</string>
+<string name="common_google_play_services_install_button">&#302;diegti</string>
+<string name="common_google_play_services_install_text_phone">&#8222;%1$s&#8220; nebus paleid&#382;iama be &#8222;Google Play&#8220; paslaug&#371;, kuri&#371; n&#279;ra telefone.</string>
+<string name="common_google_play_services_install_text_tablet">&#8222;%1$s&#8220; nebus paleid&#382;iama be &#8222;Google Play&#8220; paslaug&#371;, kuri&#371; n&#279;ra plan&#353;etiniame kompiuteryje.</string>
+<string name="common_google_play_services_install_title">Gaukite &#8222;Google Play&#8220; paslaugas</string>
+<string name="common_google_play_services_notification_ticker">&#8222;Google Play&#8220; paslaug&#371; klaida</string>
+<string name="common_google_play_services_unknown_issue">Naudojant program&#261; &#8222;%1$s&#8220; kyla problem&#371; d&#279;l &#8222;Google Play&#8220; paslaug&#371;. Jei problema i&#353;lieka, susisiekite su k&#363;r&#279;ju, kad jums b&#363;t&#371; suteikta pagalba.</string>
+<string name="common_google_play_services_unsupported_text">Norint naudoti &#8222;%1$s&#8220; reikalingos &#8222;Google Play&#8220; paslaugos, kurios nepalaikomos j&#363;s&#371; &#303;renginyje. Susisiekite su gamintoju, kad gautum&#279;te pagalbos.</string>
+<string name="common_google_play_services_unsupported_title">&#8222;Google Play&#8220; paslaugos</string>
+<string name="common_google_play_services_update_button">Atnaujinti</string>
+<string name="common_google_play_services_update_text">&#8222;%1$s&#8220; nebus paleid&#382;iama, jei neatnaujinsite &#8222;Google Play&#8220; paslaug&#371;.</string>
+<string name="common_google_play_services_update_title">Atnaujinkite &#8222;Google Play&#8220; paslaugas</string>
+<string name="common_google_play_services_updating_text">&#8222;%1$s&#8220; nebus paleid&#382;iama be &#8222;Google Play&#8220; paslaug&#371;, kurios &#353;iuo metu atnaujinamos.</string>
+<string name="common_google_play_services_updating_title">&#8222;Google Play&#8220; paslaugos atnaujinamos</string>
+<string name="common_google_play_services_wear_update_text">Reikia naujos versijos &#8222;Google Play&#8220; paslaug&#371;. Jos netrukus bus atnaujintos.</string>
+<string name="common_open_on_phone">Atidaryti telefone</string>
+<string name="common_signin_button_text">Prisijungti</string>
+<string name="common_signin_button_text_long">Prisijungti naudojant &#8222;Google&#8220;</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

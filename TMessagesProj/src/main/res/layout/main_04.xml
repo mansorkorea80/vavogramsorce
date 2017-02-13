@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<ScrollView android:id="@id/scrollView" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+		<LinearLayout android:orientation="vertical" android:id="@id/main_c" android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="200.0dip" android:layout_margin="5.0dip">
+				<FrameLayout android:id="@id/frameLayout" android:background="@drawable/sel_main" android:layout_width="100.0dip" android:layout_height="fill_parent" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/relativeLayout" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+					<FrameLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent">
+						<org.telegram.ui.Components.BackupImageView android:id="@id/avatar" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+					</FrameLayout>
+				</FrameLayout>
+				<RelativeLayout android:id="@id/relativeLayout" android:background="#ae000000" android:layout_width="50.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+					<org.telegram.khalkhaloka.Khalkhaloka_textview android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Medium Text" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="110.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip">
+				<RelativeLayout android:id="@id/ly_c_recoeder" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/ly_c_secu" android:layout_toRightOf="@id/ly_c_idfinder" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image08" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_record_voice_over" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_se" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="تغییر صدا" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_idfinder" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image09" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:src="@drawable/ic_action_search" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_id" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="آی دی باب" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_secu" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image10" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_action_lock_m" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_gh" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="قفل گذاری" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="110.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip">
+				<RelativeLayout android:id="@id/ly_c_nice" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/ly_c_profile" android:layout_toRightOf="@id/ly_c_ghost" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image11" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_format_align_center" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_zi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="زیبا نویس" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_ghost" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image12" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:src="@drawable/ic_ghost_user" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_ghost" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="حالت روح" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_profile" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image13" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_action_wizard" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_prof" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="پروفایل ساز" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="110.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip">
+				<RelativeLayout android:id="@id/ly_c_co" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/ly_c_answer" android:layout_toRightOf="@id/ly_c_tel" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image14" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_settings_brightness" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_tc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="تنظیمات شخصی" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_tel" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image15" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:src="@drawable/ic_settingsf" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_tt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="تنظیمات تلگرام" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_answer" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image16" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_face" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_mo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="منشی" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="110.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_alignParentLeft="true">
+				<RelativeLayout android:id="@id/ly_c_make" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/ly_c_customize" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image17" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_add_to_photos" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_make_gr" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ساخت گروه و ..." android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_customize" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image18" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_color_lens" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_font" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="پوسته و فونت" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="110.0dip" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip">
+				<RelativeLayout android:id="@id/ly_c_channel" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_marginLeft="5.0dip" android:layout_marginRight="5.0dip" android:layout_toLeftOf="@id/ly_c_my_app" android:layout_toRightOf="@id/ly_c_about" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image19" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_action_feed" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_ch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="کانال ما" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_about" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image20" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="30.0dip" android:src="@drawable/ic_action_emo_laugh" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_ab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="درباره ی ما" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+				<RelativeLayout android:id="@id/ly_c_my_app" android:background="@drawable/sel_main" android:layout_width="110.0dip" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+					<RelativeLayout android:background="#ae000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<ImageView android:id="@id/image21" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_shop_two" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+					<TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:id="@id/txt_ot" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="سایر برنامه ها" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+		</LinearLayout>
+	</ScrollView>
+	<ScrollView android:layout_gravity="center_horizontal" android:id="@id/scrollView3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+		<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#fff5a601" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_a_channel" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:src="@drawable/ic_cast_connected" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_channel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="کانال" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_05" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ffd3351c" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_a_pr" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:src="@drawable/ic_user_p" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_private" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="خصوصی" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_02" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ff383838" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_gr" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_group" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_group" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="گروه" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_03" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ff77a92e" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_su" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="25.0dip" android:src="@drawable/ic_super_group" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_super_group" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="سوپر گروه" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_04" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ff2e6ba9" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_robat" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:src="@drawable/ic_robat" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_robt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="ربات" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ff10c97c" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_un" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20.0dip" android:src="@drawable/ic_mail_outline" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_un" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="نخوانده" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_06" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ffaf7529" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_all" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="35.0dip" android:src="@drawable/ic_border_all" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_ha" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="همه" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_01" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ffb626c6" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_c_fav" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+						<ImageView android:textAppearance="?android:textAppearanceSmall" android:layout_gravity="center" android:id="@id/imageView8" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="35.0dip" android:src="@drawable/ic_action_heart" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+					</FrameLayout>
+					<FrameLayout android:layout_width="150.0dip" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true">
+						<TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/txt_fav" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="علاقه مندی" />
+						<TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="#ff000000" android:gravity="center" android:id="@id/txt_07" android:background="@drawable/dialogs_badge2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:text="00" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+					</FrameLayout>
+				</RelativeLayout>
+			</RelativeLayout>
+			<RelativeLayout android:layout_gravity="center_horizontal" android:background="#ff78009f" android:layout_width="fill_parent" android:layout_height="150.0dip">
+				<RelativeLayout android:id="@id/ly_tools" android:background="@drawable/sel_main" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+					<TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="سایر امکانات" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+				</RelativeLayout>
+			</RelativeLayout>
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>

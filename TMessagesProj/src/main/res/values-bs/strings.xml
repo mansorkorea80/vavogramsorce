@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="common_google_play_services_enable_button">Omogu&#263;i</string>
+<string name="common_google_play_services_enable_text">Aplikacija %1$s ne&#263;e raditi ako ne omogu&#263;ite Google Play usluge.</string>
+<string name="common_google_play_services_enable_title">Omogu&#263;ite Google Play usluge</string>
+<string name="common_google_play_services_install_button">Instaliraj</string>
+<string name="common_google_play_services_install_text_phone">Aplikacija %1$s ne&#263;e raditi bez Google Play usluga, koje nedostaju u va&#353;em telefonu.</string>
+<string name="common_google_play_services_install_text_tablet">Aplikacija %1$s ne&#263;e raditi bez Google Play usluga, koje nedostaju u va&#353;em tabletu.</string>
+<string name="common_google_play_services_install_title">Nabavite Google Play usluge</string>
+<string name="common_google_play_services_notification_ticker">Gre&#353;ka Google Play usluge</string>
+<string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima problema s Google Play uslugom. Ukoliko problem potraje, obratite se autoru za pomo&#263;.</string>
+<string name="common_google_play_services_unsupported_text">Aplikacija %1$s se oslanja na Google Play usluge koje va&#353; ure&#273;aj ne podr&#382;ava. Obratite se proizvo&#273;a&#269;u za pomo&#263;.</string>
+<string name="common_google_play_services_unsupported_title">Google Play usluge</string>
+<string name="common_google_play_services_update_button">A&#382;uriraj</string>
+<string name="common_google_play_services_update_text">Aplikacija %1$s ne&#263;e raditi ako ne a&#382;urirate Google Play usluge.</string>
+<string name="common_google_play_services_update_title">A&#382;uriranje Google Play usluga</string>
+<string name="common_google_play_services_updating_text">Aplikacija %1$s ne&#263;e raditi bez Google Play usluga, koje se trenutno a&#382;uriraju.</string>
+<string name="common_google_play_services_updating_title">A&#382;uriranje Google Play usluga</string>
+<string name="common_google_play_services_wear_update_text">Potrebna je nova verzija Google Play usluga. Ubrzo &#263;e se samo a&#382;urirati.</string>
+<string name="common_open_on_phone">Otvori na telefonu</string>
+<string name="common_signin_button_text">Prijavi se</string>
+<string name="common_signin_button_text_long">Prijavi se pomo&#263;u Googlea</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">Ev&#601; get</string>
+<string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+<string name="abc_action_bar_up_description">Yuxar&#305; get</string>
+<string name="abc_action_menu_overflow_description">Daha &#231;ox se&#231;im</string>
+<string name="abc_action_mode_done">Haz&#305;rd&#305;r</string>
+<string name="abc_activity_chooser_view_see_all">Ham&#305;s&#305;na bax&#305;n</string>
+<string name="abc_activitychooserview_choose_application">T&#601;tbiq se&#231;in</string>
+<string name="abc_capital_off">DEAKT&#304;V</string>
+<string name="abc_capital_on">AKT&#304;V</string>
+<string name="abc_search_hint">Axtar&#305;&#351;...</string>
+<string name="abc_searchview_description_clear">Sor&#287;unu t&#601;mizl&#601;</string>
+<string name="abc_searchview_description_query">Axtar&#305;&#351; sor&#287;usu</string>
+<string name="abc_searchview_description_search">Axtar&#305;&#351;</string>
+<string name="abc_searchview_description_submit">Sor&#287;unu g&#246;nd&#601;rin</string>
+<string name="abc_searchview_description_voice">S&#601;sli axtar&#305;&#351;</string>
+<string name="abc_shareactionprovider_share_with">Bununla payla&#351;&#305;n</string>
+<string name="abc_toolbar_collapse_description">Da&#287;&#305;t</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

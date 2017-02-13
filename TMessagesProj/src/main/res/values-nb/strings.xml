@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">G&#229; til startsiden</string>
+<string name="abc_action_bar_home_description_format">%1$s &#8211; %2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s &#8211; %2$s &#8211; %3$s</string>
+<string name="abc_action_bar_up_description">G&#229; opp</string>
+<string name="abc_action_menu_overflow_description">Flere alternativer</string>
+<string name="abc_action_mode_done">Ferdig</string>
+<string name="abc_activity_chooser_view_see_all">Se alle</string>
+<string name="abc_activitychooserview_choose_application">Velg en app</string>
+<string name="abc_capital_off">AV</string>
+<string name="abc_capital_on">P&#197;</string>
+<string name="abc_search_hint">S&#248;k &#8230;</string>
+<string name="abc_searchview_description_clear">Slett s&#248;ket</string>
+<string name="abc_searchview_description_query">S&#248;keord</string>
+<string name="abc_searchview_description_search">S&#248;k</string>
+<string name="abc_searchview_description_submit">Utf&#248;r s&#248;ket</string>
+<string name="abc_searchview_description_voice">Tales&#248;k</string>
+<string name="abc_shareactionprovider_share_with">Del med</string>
+<string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+<string name="abc_toolbar_collapse_description">Skjul</string>
+<string name="common_google_play_services_enable_button">Sl&#229; p&#229;</string>
+<string name="common_google_play_services_enable_text">%1$s fungerer ikke med mindre du sl&#229;r p&#229; Google Play-tjenester.</string>
+<string name="common_google_play_services_enable_title">Sl&#229; p&#229; Google Play-tjenester</string>
+<string name="common_google_play_services_install_button">Installer</string>
+<string name="common_google_play_services_install_text_phone">%1$s kan ikke kj&#248;re uten Google Play-tjenester, som ikke er installert p&#229; telefonen din.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s kan ikke kj&#248;re uten Google Play-tjenester, som ikke er installert p&#229; nettbrettet ditt.</string>
+<string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+<string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+<string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Hvis problemet vedvarer, kan du ta kontakt med utvikleren for &#229; f&#229; hjelp.</string>
+<string name="common_google_play_services_unsupported_text">%1$s er avhengig av Google Play-tjenester, som ikke st&#248;ttes av enheten din. Ta kontakt med produsenten for &#229; f&#229; hjelp.</string>
+<string name="common_google_play_services_unsupported_title">Google Play Tjenester</string>
+<string name="common_google_play_services_update_button">Oppdater</string>
+<string name="common_google_play_services_update_text">%1$s kj&#248;rer ikke med mindre du oppdaterer Google Play Tjenester.</string>
+<string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+<string name="common_google_play_services_updating_text">%1$s kj&#248;rer ikke uten Google Play-tjenester, som oppdateres akkurat n&#229;.</string>
+<string name="common_google_play_services_updating_title">Google Play-tjenester oppdateres</string>
+<string name="common_google_play_services_wear_update_text">Du m&#229; installere en ny versjon av Google Play-tjenester. Appen oppdateres automatisk om en kort stund.</string>
+<string name="common_open_on_phone">&#197;pne p&#229; telefonen</string>
+<string name="common_signin_button_text">Logg p&#229;</string>
+<string name="common_signin_button_text_long">Logg p&#229; med Google</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>

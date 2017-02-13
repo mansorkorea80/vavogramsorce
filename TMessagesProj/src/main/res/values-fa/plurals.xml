@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="time_ago_days"><item quantity="other">%d &#1585;&#1608;&#1586;</item><item quantity="one">%d &#1585;&#1608;&#1586;</item></plurals>
+<plurals name="time_ago_hours"><item quantity="other">%d &#1587;&#1575;&#1593;&#1578;</item><item quantity="one">%d &#1587;&#1575;&#1593;&#1578;</item></plurals>
+<plurals name="time_ago_minutes"><item quantity="other">%d &#1583;&#1602;&#1740;&#1602;&#1607;</item><item quantity="one">%d &#1583;&#1602;&#1740;&#1602;&#1607;</item></plurals>
+<plurals name="time_ago_months"><item quantity="other">%d &#1605;&#1575;&#1607;</item><item quantity="one">%d &#1605;&#1575;&#1607;</item></plurals>
+<plurals name="time_ago_years"><item quantity="other">%d &#1587;&#1575;&#1604;</item><item quantity="one">%d &#1587;&#1575;&#1604;</item></plurals>
+</resources>

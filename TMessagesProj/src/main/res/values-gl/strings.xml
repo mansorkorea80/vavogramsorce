@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="common_google_play_services_enable_button">Activar</string>
+<string name="common_google_play_services_enable_text">%1$s non funcionar&#225; a menos que actives os servizos de Google Play.</string>
+<string name="common_google_play_services_enable_title">Activar servizos de Google Play</string>
+<string name="common_google_play_services_install_button">Instalar</string>
+<string name="common_google_play_services_install_text_phone">%1$s non se executar&#225; se o teu tel&#233;fono non ten instalados os servizos de Google Play.</string>
+<string name="common_google_play_services_install_text_tablet">%1$s non se executar&#225; se a t&#250;a tableta non ten instalados os servizos de Google Play.</string>
+<string name="common_google_play_services_install_title">Descargar servizos de Google Play</string>
+<string name="common_google_play_services_notification_ticker">Erro nos servizos de Google Play</string>
+<string name="common_google_play_services_unknown_issue">%1$s ten problemas cos servizos de Google Play. Se o problema contin&#250;a, ponte en contacto co programador para obter axuda.</string>
+<string name="common_google_play_services_unsupported_text">%1$s conf&#237;a nos servizos de Google Play, que non son compatibles co teu dispositivo. Ponte en contacto co fabricante para obter axuda.</string>
+<string name="common_google_play_services_unsupported_title">Servizos de Google Play</string>
+<string name="common_google_play_services_update_button">Actualizar</string>
+<string name="common_google_play_services_update_text">%1$s non se executar&#225; a menos que actualices os servizos de Google Play.</string>
+<string name="common_google_play_services_update_title">Actualizar os servizos de Google Play</string>
+<string name="common_google_play_services_updating_text">%1$s non se executar&#225; sen os servizos de Google Play, que se est&#225;n actualizando neste momento.</string>
+<string name="common_google_play_services_updating_title">Actualizando os servizos de Google Play</string>
+<string name="common_google_play_services_wear_update_text">Neces&#237;tase a nova versi&#243;n dos servizos de Google Play. Actualizarase en breve.</string>
+<string name="common_open_on_phone">Abrir no tel&#233;fono</string>
+<string name="common_signin_button_text">Iniciar sesi&#243;n</string>
+<string name="common_signin_button_text_long">Iniciar sesi&#243;n con Google</string>
+</resources>

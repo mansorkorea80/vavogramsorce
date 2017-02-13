@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/prefs_service">
+		<CheckBoxPreference android:title="@string/prefs_monitoring_title" android:key="clipboardMonitoring" android:summary="@string/prefs_monitoring_summary" android:defaultValue="false" />
+		<CheckBoxPreference android:title="@string/prefs_autostart_title" android:key="startOnBoot" android:summary="@string/prefs_autostart_summary" android:dependency="clipboardMonitoring" android:defaultValue="false" android:disableDependentsState="false" />
+		<ListPreference android:entries="@array/prefs_polling_interval" android:title="@string/prefs_polling_interval_title" android:key="pollingInterval" android:summary="@string/prefs_polling_interval_summary" android:dependency="clipboardMonitoring" android:defaultValue="5000" android:disableDependentsState="false" android:dialogTitle="@string/prefs_polling_interval_title" android:entryValues="@array/prefs_polling_interval_values" />
+	</PreferenceCategory>
+	<PreferenceCategory android:title="@string/prefs_application">
+		<ListPreference android:entries="@array/prefs_notification_types" android:title="@string/prefs_notification_title" android:key="notificationType" android:summary="@string/prefs_notification_summary" android:defaultValue="0" android:dialogTitle="@string/prefs_notification_title" android:entryValues="@array/prefs_notification_values" />
+		<ListPreference android:entries="@array/prefs_history_size" android:title="@string/prefs_history_title" android:key="historySize" android:summary="@string/prefs_history_summary" android:defaultValue="10" android:dialogTitle="@string/prefs_history_title" android:entryValues="@array/prefs_history_values" />
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="abc_action_bar_home_description">&#28687;&#35261;&#39318;&#38913;</string>
+<string name="abc_action_bar_home_description_format">%1$s&#65306;%2$s</string>
+<string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s&#65306;%3$s</string>
+<string name="abc_action_bar_up_description">&#21521;&#19978;&#28687;&#35261;</string>
+<string name="abc_action_menu_overflow_description">&#26356;&#22810;&#36984;&#38917;</string>
+<string name="abc_action_mode_done">&#23436;&#25104;</string>
+<string name="abc_activity_chooser_view_see_all">&#26597;&#30475;&#20840;&#37096;</string>
+<string name="abc_activitychooserview_choose_application">&#36984;&#25799;&#25033;&#29992;&#31243;&#24335;</string>
+<string name="abc_capital_off">&#38364;&#38281;</string>
+<string name="abc_capital_on">&#38283;&#21855;</string>
+<string name="abc_search_hint">&#25628;&#23563;&#8230;</string>
+<string name="abc_searchview_description_clear">&#28165;&#38500;&#26597;&#35426;</string>
+<string name="abc_searchview_description_query">&#25628;&#23563;&#26597;&#35426;</string>
+<string name="abc_searchview_description_search">&#25628;&#23563;</string>
+<string name="abc_searchview_description_submit">&#25552;&#20132;&#26597;&#35426;</string>
+<string name="abc_searchview_description_voice">&#35486;&#38899;&#25628;&#23563;</string>
+<string name="abc_shareactionprovider_share_with">&#36984;&#25799;&#20998;&#20139;&#23565;&#35937;</string>
+<string name="abc_shareactionprovider_share_with_application">&#33287;&#12300;%s&#12301;&#20998;&#20139;</string>
+<string name="abc_toolbar_collapse_description">&#25910;&#21512;</string>
+<string name="common_google_play_services_enable_button">&#21855;&#29992;</string>
+<string name="common_google_play_services_enable_text">&#24744;&#24517;&#38920;&#21855;&#29992; Google Play &#26381;&#21209;&#65292;&#25165;&#33021;&#22519;&#34892;&#12300;%1$s&#12301;&#12290;</string>
+<string name="common_google_play_services_enable_title">&#21855;&#29992; Google Play &#26381;&#21209;</string>
+<string name="common_google_play_services_install_button">&#23433;&#35037;</string>
+<string name="common_google_play_services_install_text_phone">&#24744;&#30340;&#25163;&#27231;&#20006;&#26410;&#23433;&#35037; Google Play &#26381;&#21209;&#65292;&#22240;&#27492;&#28961;&#27861;&#22519;&#34892;&#12300;%1$s&#12301;&#12290;</string>
+<string name="common_google_play_services_install_text_tablet">&#24744;&#30340;&#24179;&#26495;&#38651;&#33126;&#20006;&#26410;&#23433;&#35037; Google Play &#26381;&#21209;&#65292;&#22240;&#27492;&#28961;&#27861;&#22519;&#34892;&#12300;%1$s&#12301;&#12290;</string>
+<string name="common_google_play_services_install_title">&#21462;&#24471; Google Play &#26381;&#21209;</string>
+<string name="common_google_play_services_notification_ticker">Google Play &#26381;&#21209;&#30332;&#29983;&#37679;&#35492;</string>
+<string name="common_google_play_services_unknown_issue">&#12300;%1$s&#12301;&#28961;&#27861;&#23384;&#21462; Google Play &#26381;&#21209;&#12290;&#22914;&#26524;&#21839;&#38988;&#28961;&#27861;&#35299;&#27770;&#65292;&#35531;&#33287;&#38283;&#30332;&#20154;&#21729;&#32879;&#32097;&#65292;&#21521;&#23565;&#26041;&#23563;&#27714;&#21332;&#21161;&#12290;</string>
+<string name="common_google_play_services_unsupported_text">&#12300;%1$s&#12301;&#38656;&#35201;&#25645;&#37197; Google Play &#26381;&#21209;&#25165;&#33021;&#36939;&#20316;&#65292;&#20294;&#24744;&#30340;&#35037;&#32622;&#20006;&#19981;&#25903;&#25588;&#30456;&#38364;&#26381;&#21209;&#12290;&#35531;&#33287;&#24744;&#30340;&#35037;&#32622;&#35069;&#36896;&#21830;&#32879;&#32097;&#20197;&#23563;&#27714;&#21332;&#21161;&#12290;</string>
+<string name="common_google_play_services_unsupported_title">Google Play &#26381;&#21209;</string>
+<string name="common_google_play_services_update_button">&#26356;&#26032;</string>
+<string name="common_google_play_services_update_text">&#24744;&#24517;&#38920;&#26356;&#26032; Google Play &#26381;&#21209;&#65292;&#25165;&#33021;&#22519;&#34892;&#12300;%1$s&#12301;&#12290;</string>
+<string name="common_google_play_services_update_title">&#26356;&#26032; Google Play &#26381;&#21209;</string>
+<string name="common_google_play_services_updating_text">&#22519;&#34892;&#12300;%1$s&#12301;&#25152;&#38656;&#30340; Google Play &#26381;&#21209;&#27491;&#22312;&#26356;&#26032;&#12290;</string>
+<string name="common_google_play_services_updating_title">Google Play &#26381;&#21209;&#26356;&#26032;&#20013;</string>
+<string name="common_google_play_services_wear_update_text">&#24517;&#38920;&#20351;&#29992;&#26032;&#29256; Google Play &#26381;&#21209;&#12290;&#35442;&#26381;&#21209;&#31245;&#24460;&#23601;&#26371;&#33258;&#21205;&#26356;&#26032;&#12290;</string>
+<string name="common_open_on_phone">&#22312;&#25163;&#27231;&#19978;&#38283;&#21855;</string>
+<string name="common_signin_button_text">&#30331;&#20837;</string>
+<string name="common_signin_button_text_long">&#20351;&#29992; Google &#24115;&#25142;&#30331;&#20837;</string>
+<string name="status_bar_notification_info_overflow">999+</string>
+</resources>
